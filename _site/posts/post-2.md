@@ -1,3 +1,5 @@
 ---
-title: My second post
+title: Post 2
 ---
+
+Post content.
